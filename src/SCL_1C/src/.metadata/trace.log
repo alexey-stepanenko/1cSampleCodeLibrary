@@ -1,0 +1,10 @@
+# !SESSION 2019-02-24 16:31:52.848
+# version: 1.1
+# verbose: true
+# The following option strings are specified for this debug session:
+# 	com._1c.g5.v8.dt.core/debug=true
+# 	org.eclipse.core.runtime/debug=true
+# 	com._1c.g5.v8.dt.platform.services.core/debug=true
+# 	org.eclipse.core.runtime/perf/success=true
+# 	org.eclipse.core.runtime/perf=true
+| main | 2019-02-24 16:31:52.848 | org.eclipse.e4.ui.workbench | /debug | org.eclipse.e4.ui.internal.workbench.WorkbenchLogger | trace | 158 | Ignored attempt to set focus during set focus for: org.eclipse.ui.internal.e4.compatibility.CompatibilityView@269fe2fe |
